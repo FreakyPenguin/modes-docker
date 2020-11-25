@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
         libgoogle-perftools-dev \
         libpcap-dev \
         libpixman-1-dev \
+        m4 \
         python-dev \
         python-setuptools \
         python-six \
