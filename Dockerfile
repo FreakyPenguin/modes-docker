@@ -7,7 +7,9 @@ RUN apt-get update && apt-get install -y \
         libpixman-1-dev \
         python-dev \
         python-setuptools \
+        python-six \
         python3-setuptools \
+        python3-six \
         scons \
         unzip \
         verilator \
