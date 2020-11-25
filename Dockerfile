@@ -6,6 +6,8 @@ RUN apt-get update && apt-get install -y \
         libpcap-dev \
         libpixman-1-dev \
         python-dev \
+        python-setuptools \
+        python3-setuptools \
         scons \
         unzip \
         verilator \
