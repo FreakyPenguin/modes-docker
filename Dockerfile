@@ -1,6 +1,7 @@
 FROM debian:10
 RUN apt-get update && apt-get install -y \
         build-essential \
+        git \
         libglib2.0-dev \
         libgoogle-perftools-dev \
         libpcap-dev \
