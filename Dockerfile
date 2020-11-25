@@ -7,6 +7,7 @@ RUN apt-get update && apt-get install -y \
         libpcap-dev \
         libpixman-1-dev \
         m4 \
+        ninja-build \
         python-dev \
         python-setuptools \
         python-six \
